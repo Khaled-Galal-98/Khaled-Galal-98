@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Khaled+ElNomrosy;Software+Engineer+%C2%B7+4%2B+years;Building+scalable+web+applications;Ruby+on+Rails+%26+React+Developer;Based+in+Amsterdam+%F0%9F%87%B3%F0%9F%87%B1&font=Fira+Code&center=true&width=600&height=45&color=00D9A3&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Khaled+Galal;Software+Engineer+%C2%B7+4%2B+years;Building+scalable+web+applications;Ruby+on+Rails+%26+React+Developer;Based+in+Amsterdam+%F0%9F%87%B3%F0%9F%87%B1&font=Fira+Code&center=true&width=600&height=45&color=00D9A3&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Khaled-Galal-98&color=00D9A3&style=for-the-badge&label=Profile+Views)
 
