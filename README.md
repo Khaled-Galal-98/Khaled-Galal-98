@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Khaled+ElNomrosy;Software+Engineer+%C2%B7+4%2B+years;Building+scalable+web+applications;Ruby+on+Rails+%26+React+Developer;Based+in+Amsterdam+%F0%9F%87%B3%F0%9F%87%B1&font=Fira+Code&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Khaled+ElNomrosy;Software+Engineer+%C2%B7+4%2B+years;Building+scalable+web+applications;Ruby+on+Rails+%26+React+Developer;Based+in+Amsterdam+%F0%9F%87%B3%F0%9F%87%B1&font=Fira+Code&center=true&width=600&height=45&color=00D9A3&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Khaled-Galal-98&color=36BCF7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Khaled-Galal-98&color=00D9A3&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -86,20 +86,7 @@ Software Engineer with 5+ years of experience building scalable, user-focused we
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled-Galal-98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Khaled-Galal-98)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Galal-98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Khaled-Galal-98)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Galal-98&theme=tokyonight&hide_border=true)](https://github.com/Khaled-Galal-98)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Galal-98&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Khaled-Galal-98)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Galal-98&theme=tokyonight&hide_border=true)
 
 </div>
 
