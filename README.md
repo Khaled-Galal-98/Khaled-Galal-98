@@ -74,11 +74,11 @@ Software Engineer with 5+ years of experience building scalable, user-focused we
 [![Udacity Deep Learning](https://img.shields.io/badge/Udacity-Deep%20Learning%20Nanodegree-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com/certificate/4MH9JSDH)
 [![Cairo University](https://img.shields.io/badge/Cairo%20University-B.Sc.%20Computer%20Engineering%20(82%25)-003366?style=for-the-badge&logo=graduationcap&logoColor=white)](https://cu.edu.eg)
 
-## �🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Khaled-Galal-98&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Khaled-Galal-98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
