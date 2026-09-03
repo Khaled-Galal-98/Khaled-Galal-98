@@ -62,7 +62,7 @@ Software Engineer with 5+ years of experience building scalable, user-focused we
 
 ## � Currently Working On
 
-- 🔥 Building and scaling the **Irshad platform** serving 250K+ users at SkillLab
+- 🔥 Building and scaling **Our platform** serving 250K+ users at SkillLab
 - 🚀 Optimizing CI/CD pipelines and enabling daily production deployments
 - 📈 Improving system performance and backend architecture
 - 🧪 Expanding test coverage and reliability across the stack
